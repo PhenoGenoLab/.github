@@ -28,4 +28,4 @@
 ## 联系
 
 - 官网：[genemed.tech/jclab](https://www.genemed.tech/jclab)
-- 邮箱：[yhvguk@stu.hunau.edu.cn](mailto:yhvguk@stu.hunau.edu.cn)
+- 邮箱：[zhaoguihu@foxmail.com](mailto:zhaoguihu@foxmail.com)
